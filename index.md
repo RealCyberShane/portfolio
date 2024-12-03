@@ -6,7 +6,7 @@ Hi, my name is Shane Wright and I am a SOC Analyst who uses the NIST frameworks 
 
 With a value system rooted in patience, curiosity, and unyielding integrity, I'm driven by an unwavering commitment to safeguarding organizations and their people.
 
-Below you'll find documentation of my projects from personal to work related.
+Below you'll find documentation of my projects ranging from personal to work related.
 
 # Header 1
 

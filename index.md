@@ -2,13 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+Hi, my name is Shane Wright and I am a SOC Analyst who uses the NIST frameworks to implement security controls to ensure compliance with international regulations related to data protection. 
 
-[Link to another page](./another-page.html).
+With a value system rooted in patience, curiosity, and unyielding integrity, I'm driven by an unwavering commitment to safeguarding organizations and their people.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Below you'll find documentation of my projects from personal to work related.
 
 # Header 1
 

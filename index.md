@@ -8,9 +8,8 @@ With a value system rooted in patience, curiosity, and unyielding integrity, I'm
 
 Below you'll find documentation of my projects ranging from personal to work related.
 
-# Creating My Own SOC using Microsoft Azure
-
-[Go to my SOC project page](soc.md).
+# Project 1: Creating a SOC
+[Creating My Own SOC Using Microsoft Azure](soc.md).
 
 ## Header 2
 

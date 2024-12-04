@@ -4,9 +4,9 @@ layout: default
 
 # Creating My Own SOC Using Microsoft Azure
 
-I created my own Security Operations Center (SOC) by deploying my own SIEM that monitors and generates alerts for all of the devices in my personal home business lab. 
+I created a Security Operations Center (SOC) by deploying my own SIEM that monitors and generates alerts for all of the devices in my personal home business lab. 
 
-I also set up a threat intelligence feed that sends our SIEM commonly seen and newly found indicators of comprimise.
+I also set up a threat intelligence feed that sends my SIEM commonly seen and newly found indicators of comprimise.
 
 
 ## Setting Up The Virtual Machine

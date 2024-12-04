@@ -8,9 +8,9 @@ With a value system rooted in patience, curiosity, and unyielding integrity, I'm
 
 Below you'll find documentation of my projects ranging from personal to work related.
 
-# Header 1
+# Creating My Own SOC using Microsoft Azure
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[Go to my SOC project page](soc.md).
 
 ## Header 2
 

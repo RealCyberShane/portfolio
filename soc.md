@@ -15,7 +15,7 @@ First, I set up a Virtual Machine (VM) so I can monitor it's traffic flow.
 
 ![VM](1.png)
 
-When setting up the VM, I opened it to port 3389 (RDP), an insecure port, so I could test the application in a timely manner.
+When setting up the VM, I set up a honeypot by opening it to port 3389 (RDP), an insecure port, so I could test the application in a timely manner.
 
 ![RDP](2.png)
 
@@ -47,7 +47,8 @@ After letting the system run for a while, these were the results/ proof that the
 ![Events](6.png)
 
 
-## Conclusion
+
+## Closing The Honeypot
 
 After testing the system and verifying that it works, I turned off port 3389 and switched to the secure port 443.
 
@@ -56,6 +57,20 @@ After testing the system and verifying that it works, I turned off port 3389 and
 ![443](8.png)
 
 And with that I have successfully created my own SOC and secured my system using the information the SOC provided.
+
+
+## Next Steps
+
+Now that I know the SIEM is working, I want to bulster the effectiveness of my SOC by improving the Sentinal's ability to determine what is malicious and what isn't.
+
+To do this, I set up a MISP2Sentinel data connector. MISP is an open sourse threat inteligence platform.
+
+![MISP](9.png)
+
+Next, I set up a second VM
+
+![VM2](10.png)
+
 
 
 [back](./)

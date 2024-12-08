@@ -9,13 +9,12 @@ With a value system rooted in patience, curiosity, and unyielding integrity, I'm
 Below you'll find documentation of my projects ranging from personal to work related.
 
 # Personal Projects
+
 [Creating My Own SOC Using Microsoft Azure](soc.md).
 
 # Security+ Projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Setting Up My Virtual Machines With Virtual Box](virtualbox).
 
 # Google Cyber Security Projects
 

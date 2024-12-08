@@ -9,33 +9,33 @@ To begin this project, I need to get Windows 10 on my Virtual Box. To do this, I
 
 First, I go to the windows website so I can download the widnows 10 ISO file.
 
-[Image1]
+![VM](Installing Windows ISO 1.png)
 
 I make sure I download the ISO file and not anything else.
 
-[Image2]
+![VM](Installing Windows ISO 2.png)
 
 Next, I created a new VM to install the ISO on.
 
-[Image3]
+![VM](Installing Windows ISO 3.png)
 
 I have a low end computer so I have the VM minimal computing power.
 
-[image4]
+![VM](Installing Windows ISO 4.png)
 
 After creating the VM, I launch it and it tells me to install the ISO, which I then locate the ISO file for installation.
 
-[image5]
+![VM](Installing Windows ISO 5.png)
 
 Once finished, I go through the windows installation wizard to install windows onto my VM.
 
 I made sure to install Windows 10 Pro
 
-[image6]
+![VM](Installing Windows ISO 6.png)
 
 Once I finished with the Windows installation wizard, the VM setup is complete.
 
-[image7]
+![VM](Installing Windows ISO 7.png)
 
 
 
@@ -45,11 +45,11 @@ Now I want to make another VM with Kali Linux.
 
 First, I go to kali.org/get-kali and get the VM download for Virtual Box
 
-[kali1]
+![VM](Kali 1.png)
 
 I open the installed file and double  click the blue icon, which then opens up virtual box with Kali Linux already installed.
 
-[kali2]
+![VM](Kali 2.png)
 
 By default, the RAM was set to 2 gigabyts, I changed it to 4.
 
@@ -59,7 +59,7 @@ I log into Kali using the default credentials (Kali, Kali).
 
 Now Kali Linux is officially set up on my Virtual Box.
 
-[kali3]
+![VM](Kali 3.png)
 
 
 

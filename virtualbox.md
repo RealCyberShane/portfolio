@@ -68,8 +68,8 @@ Before I do anything with the VMs I just created, I want to create a snapshot of
 
 This way, if they get corrupted, I don't have to lost all of the work I did in making them, I can just reset them to their original state.
 
-![VM](snapshot windows.png)
+![VM](Snapshot Windows.png)
 
-![VM](snapshot kali.png)
+![VM](Snapshot Kali.png)
 
 [back](./)

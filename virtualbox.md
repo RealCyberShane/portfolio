@@ -62,5 +62,14 @@ Now Kali Linux is officially set up on my Virtual Box.
 ![VM](Kali 3.png)
 
 
+## Creating Snapshots
+
+Before I do anything with the VMs I just created, I want to create a snapshot of them in their original state.
+
+This way, if they get corrupted, I don't have to lost all of the work I did in making them, I can just reset them to their original state.
+
+![VM](snapshot windows.png)
+
+![VM](snapshot kali.png)
 
 [back](./)

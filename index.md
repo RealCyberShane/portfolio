@@ -12,9 +12,13 @@ Below you'll find documentation of my projects ranging from personal to work rel
 
 [Creating My Own SOC Using Microsoft Azure](soc.md).
 
+[Practicing Basic Pentesting](pentest.md).
+
 # Security+ Projects
 
 [Setting Up My Virtual Machines With Virtual Box](virtualbox.md).
+
+[Establishing Network Security](networks.md).
 
 # Google Cyber Security Projects
 

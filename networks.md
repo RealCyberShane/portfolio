@@ -44,3 +44,7 @@ The scanner gives me a list of vulnerabilities ranging from info to critical, as
 ![scanner](scanner 6.png)
 
 ![scanner](scanner 7.png)
+
+
+
+[back](./)

@@ -20,6 +20,8 @@ Below you'll find documentation of my projects ranging from personal to work rel
 
 [Establishing Network Security](networks.md).
 
+[Demonstrating Basic Security Fundamentals](fundamentals.md)
+
 # Google Cyber Security Projects
 
 [A collection of about 20 short projects I did during my Google Cyber Course](https://drive.google.com/drive/folders/1wpp0yInp7JdFHIChciaa0mnhdhfE97i8?usp=drive_link).

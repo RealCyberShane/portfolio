@@ -20,6 +20,7 @@ I go to my Windows 10 box and download Putty and type the IP address in the host
 
 I successfully log into my Kali SSH via my windows Putty, demonstrating a successful SSH install and connection.
 
+
 ## Securing Windows With Password Complexity
 
 In this lab I set up my windows operating system to force users to have complex passwords.
@@ -33,4 +34,19 @@ From here I can edit the password requirements and enable/ disable complexity re
 These requirements are not on by default, so enabling them is a good security practice most Windows users are not utlizing.
 
 
+## Encrypting A Hard Drive
 
+To keep my information safe from someone stealing my hard drive, I want to encrypt it.
+
+Fortunately, this process is very easy.
+
+On windows, I click on the start menu and type "device encryption"
+
+A toggle for device encryption pops up, I turn it on, and now my hard drive is encrypted.
+
+
+## Implementing Role Based Access Controls In Windows
+
+
+
+[back](./)

@@ -94,6 +94,20 @@ However I also give "read and execute" control type to the Accounting group so t
 
 ## Configure Firewall Rules
 
+In this lab I want to activate my firewall and create an inbound rule to allow port 21 for my hosted FTP server.
 
+First, I open the control panel and click "Windows Firewall Defender"
+
+I select 'turn windows firewall defender on or off' on the left side column.
+
+I turn the firewall on for both private and public connections.
+
+![basics](basics 3.png)
+
+Now that the firewall is on, I want to go to advanced settings so I can open port 21.
+
+From advanced settings, I select inbound rules and click 'new rule'.
+
+For rule type, I select port, then just follow the wizard to completion to allow port 21.
 
 [back](./)

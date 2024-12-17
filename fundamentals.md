@@ -134,4 +134,27 @@ To do this, I select advanced options and set my active hours to be the timefram
 This way, the computer will only restart during the time frame I would not be using the computer anyways.
 
 
+
+## Securing A Wireless Network
+
+In this lab I will be configuring an Archer AX3200 router.
+
+I go to the configuration website and go to the advanced settings and open the wireless tab.
+
+![basics](basics 5.png)
+
+I go to wireless settings and change the security level from WPA2 to WPA3.
+
+I change the version to WPA3 as well.
+
+I hide the network name so only people who know the name of the network can find it.
+
+I change the password to a complex passphrase.
+
+I then open the guest network tab and configure the guest settings so they won't have to be connected to my sensitive devices.
+
+I keep the SSID open, name the channel as a guest channel, and give it a secure password.
+
+![basics](basics 6.png)
+
 [back](./)

@@ -110,4 +110,28 @@ From advanced settings, I select inbound rules and click 'new rule'.
 
 For rule type, I select port, then just follow the wizard to completion to allow port 21.
 
+
+## Updating A Computer
+
+In this lab I want to make sure my computer is up to date and stays updated in a safe manner.
+
+First, I go to the windows search bar and type 'update'
+
+I click 'check for updates'
+
+I click the 'check for updates' button and the computer will prompt me to download any missing updates.
+
+![basics](basics 4.png)
+
+Since I am using a home computer, I toggle on the auto update feature.
+
+If this were a work computer, I would leave this toggled off since updates can break software and I would want to test this first.
+
+Since most updates requires the computer to restart to go into affect, I want to toggle the computer to auto restart after an update, but only during non-active hours.
+
+To do this, I select advanced options and set my active hours to be the timeframe I am usually awake and using my computer.
+
+This way, the computer will only restart during the time frame I would not be using the computer anyways.
+
+
 [back](./)

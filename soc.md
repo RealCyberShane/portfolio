@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Creating My Own SOC Using Microsoft Azure
+# Creating My Own SOC & Honeypot Using Microsoft Azure
 
 I created a Security Operations Center (SOC) by deploying my own SIEM that monitors and generates alerts for all of the devices in my personal home business lab. 
 

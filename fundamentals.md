@@ -158,8 +158,5 @@ I keep the SSID open, name the channel as a guest channel, and give it a secure 
 ![basics](basics 6.png)
 
 
-## Using Encrypting File System
-
-
 
 [back](./)

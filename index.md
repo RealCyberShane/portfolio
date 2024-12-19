@@ -10,7 +10,7 @@ Below you'll find documentation of my projects ranging from personal to work rel
 
 # Personal Projects
 
-[Creating My Own SOC Using Microsoft Azure](soc.md)
+[Creating My Own SOC & Honeypot Using Microsoft Azure](soc.md)
 
 [Practicing Basic Pentesting](pentest.md)
 
